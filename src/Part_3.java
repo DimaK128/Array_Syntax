@@ -8,7 +8,7 @@ public class Part_3 {
             System.out.println("Element at index " + i + ": " + numbers[i]);
         }
 
-        // Part_2 Using an enhanced for loop (for-each) to traverse the array
+        // Part_2 Using an enhanced for loop to traverse the array
         System.out.println("\nUsing an enhanced for loop:");
         for (int value : numbers) {
             System.out.println("Element value: " + value);
