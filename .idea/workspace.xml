@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c5efb8-6216-4c08-85cd-9aaef28ed5f5" name="Changes" comment="!" />
+    <list default="true" id="72c5efb8-6216-4c08-85cd-9aaef28ed5f5" name="Changes" comment="!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694472593871</updated>
-      <workItem from="1694472594915" duration="3919000" />
+      <workItem from="1694472594915" duration="4270000" />
     </task>
     <task id="LOCAL-00001" summary="!">
       <option name="closed" value="true" />
@@ -61,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694507453459</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="!">
+      <option name="closed" value="true" />
+      <created>1694507567474</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694507567474</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,6 +1,6 @@
 public class Part_2 {
     public static void main(String[] args) {
-        int[] a = new int[10];
+        int[] a = new int[100];
 
         a[4] = 45;
 
